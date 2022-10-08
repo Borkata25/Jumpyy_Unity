@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/Jumpy_levels/Jumpy_level1.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
